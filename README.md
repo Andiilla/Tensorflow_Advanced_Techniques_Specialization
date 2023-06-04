@@ -25,3 +25,12 @@ Deep Learning Specialization](https://www.coursera.org/specializations/deep-lear
 
 ## Week 5
 TensorBoard visualization toolkit [link](https://www.tensorflow.org/tensorboard)
+
+# Custom and Distributed Training with TensorFlow
+## Week 1
+
+## Week 2
+
+## Week 3
+
+## Week 4
